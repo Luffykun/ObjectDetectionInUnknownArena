@@ -25,7 +25,10 @@ Setup Instructions:
 * Make a project for the Image_Processing.cpp file on CodeBlocks with appropriate Build Options
 * Refer to Screencast and Reference links for help on any of the steps
 
-[Screencast](https://youtu.be/22fVzaRpfMI)
-[Project Video](https://www.youtube.com/channel/UC3pCtmVsj5U5KAdD3rIf27w)
+Video Links:
+
+=========================
+ * [Screencast](https://youtu.be/22fVzaRpfMI)
+ * [Project Video](https://www.youtube.com/channel/UC3pCtmVsj5U5KAdD3rIf27w)
 
 
