@@ -5,8 +5,7 @@ CS-101 Project Spring Semester 2015 IIT-Bombay
 
 #Team ID : Group 6
 
-Team Members:
-
+#Team Members:
 ==========================
  * Pulkit Goyal 140070032
  * Parth Kothari 14D070019
@@ -14,8 +13,7 @@ Team Members:
  * Harsh Sheth 140040012
  
 
-Setup Instructions:
-
+#Setup Instructions:
 ==========================
 * Install X-CTU Software
 * Install OpenCV
@@ -25,8 +23,7 @@ Setup Instructions:
 * Make a project for the Image_Processing.cpp file on CodeBlocks with appropriate Build Options
 * Refer to Screencast and Reference links for help on any of the steps
 
-Video Links:
-
+#Video Links:
 =========================
  * [Screencast](https://youtu.be/22fVzaRpfMI)
  * [Project Video](https://www.youtube.com/channel/UC3pCtmVsj5U5KAdD3rIf27w)
